@@ -18,4 +18,4 @@ params:
 ## The content is used for the description of the project
 ---
 
-The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland.
+hello!

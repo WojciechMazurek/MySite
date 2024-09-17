@@ -9,25 +9,32 @@
     <lastBuildDate>Sat, 01 Dec 2007 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Job #1</title>
-      <link>http://localhost:1313/experience/job-1/</link>
+      <title>Computer Vision Intern</title>
+      <link>http://localhost:1313/experience/job-4/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/job-1/</guid>
-      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;The beginning of a great career.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/experience/job-4/</guid>
+      <description>&lt;h3 id=&#34;computer-vision-intern&#34;&gt;Computer Vision Intern&lt;/h3&gt;&#xA;&lt;p&gt;Processed visual information with machine learning, detecting warehouse pallet objects of a specific class by using artificial intelligence models; Created a prototype computer vision system app using Xcode&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Job #2</title>
-      <link>http://localhost:1313/experience/job-2/</link>
-      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/job-2/</guid>
-      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Continuing the quest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Job #3</title>
+      <title>Graduate Teaching Assistant</title>
       <link>http://localhost:1313/experience/job-3/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/experience/job-3/</guid>
-      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Hostile takeover - who is the boss now!&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;graduate-teaching-assistant&#34;&gt;Graduate Teaching Assistant&lt;/h3&gt;&#xA;&lt;p&gt;Taught CS 111 lab sections and CS 230 (a web development lab); Created lab activities that coincided with weekly lessons; Changed lab material to fit instructors needs; Conducted one-on-one meetings with students; Graded and used automation to detect cheating in multiple larger scale projects given by the instructor&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ITS Student Worker</title>
+      <link>http://localhost:1313/experience/job-1/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-1/</guid>
+      <description>&lt;h3 id=&#34;its-student-worker&#34;&gt;ITS Student Worker&lt;/h3&gt;&#xA;&lt;p&gt;Assisted students and faculty with technical issues over the phone or through email using the Team Dynamix Ticketing System; Researched and comprehended multiple WVU systems; Researched new information daily through the WVU knowledge base&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research Assistant</title>
+      <link>http://localhost:1313/experience/job-2/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-2/</guid>
+      <description>&lt;h3 id=&#34;research-assistant&#34;&gt;Research Assistant&lt;/h3&gt;&#xA;&lt;p&gt;Worked with a team on a research project starting at the testing phase and concluding at the end of the project life cycle; Wrote a program that can be used by anyone; Built a part of the apparatus that would hold and transport live specimens&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,13 @@
 ---
 date: 2007-12-01T00:00:00+01:00
 draft: false
-title: "Job #3"
-jobTitle: "CEO"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2024-now"
+title: "Graduate Teaching Assistant"
+jobTitle: "Graduate Teaching Assistant"
+company: "West Virginia University"
+location: "Morgantown, WV"
+duration: "AUG 2021 - MAY 2023"
 
 ---
-### Fixing the world, one byte at a time
+### Graduate Teaching Assistant
 
-Hostile takeover - who is the boss now!
+Taught CS 111 lab sections and CS 230 (a web development lab); Created lab activities that coincided with weekly lessons; Changed lab material to fit instructors needs; Conducted one-on-one meetings with students; Graded and used automation to detect cheating in multiple larger scale projects given by the instructor

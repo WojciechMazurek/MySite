@@ -1,13 +1,13 @@
 ---
 date: 2007-12-01T00:00:00+01:00
 draft: false
-title: "Job #2"
-jobTitle: "Chief Intern"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2023-2024"
+title: "Research Assistant"
+jobTitle: "Research Assistant"
+company: "Centers For Disease Control and Prevention"
+location: "Morgantown, WV"
+duration: "JUN 2019 - AUG 2019"
 
 ---
-### Fixing the world, one byte at a time
+### Research Assistant
 
-Continuing the quest. 
+Worked with a team on a research project starting at the testing phase and concluding at the end of the project life cycle; Wrote a program that can be used by anyone; Built a part of the apparatus that would hold and transport live specimens 

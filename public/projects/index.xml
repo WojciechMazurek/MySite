@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Longitudinal Study of Factors that Affect User Interactions with Social Media and Email Spam </title>
+      <link>http://localhost:1313/projects/thesis/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/thesis/</guid>
+      <description>&lt;p&gt;Conducted a comprehensive study involving 221 participants to analyze factors influencing user interactions with spam; Designed and administered an online survey to collect demographic information, education background, spam training, and interaction experiences; Performed longitudinal analysis and logistic regression to identify key factors reducing the likelihood of spam victimization; Found that individuals with higher education levels and a STEM background were significantly less likely to interact with or fall victim to spam.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Radity Finance - UI Kit</title>
       <link>http://localhost:1313/projects/radity-finance-uikit/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
@@ -27,7 +34,7 @@
       <link>http://localhost:1313/projects/swiss-fintech/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
       <guid>http://localhost:1313/projects/swiss-fintech/</guid>
-      <description>&lt;p&gt;The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland.&lt;/p&gt;</description>
+      <description>&lt;p&gt;hello!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
