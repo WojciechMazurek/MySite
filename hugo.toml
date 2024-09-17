@@ -1,4 +1,4 @@
-baseURL = "https://www.wojciechmazurek.com"
+baseURL = "https://wojciechmazurek.github.io/MySite/"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 

@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.wojciechmazurek.com/</link>
+    <link>https://wojciechmazurek.github.io/MySite/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
-    <atom:link href="https://www.wojciechmazurek.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wojciechmazurek.github.io/MySite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National Cyber League </title>
-      <link>https://www.wojciechmazurek.com/projects/ncl/</link>
+      <link>https://wojciechmazurek.github.io/MySite/projects/ncl/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://www.wojciechmazurek.com/projects/ncl/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/projects/ncl/</guid>
       <description>&lt;p&gt;Spring 2022 -&#xA;Participated in the NCL competition which included practice scenarios that focused on the following: Open-source intelligence, Cryptography, Password cracking, Log analysis, Network Traffic Analysis, Data forensics, Scanning and reconnaissance, Web app exploitation, and Enumeration and exploitation; Scored top 10% in the nation, top scorer in my classes&lt;/p&gt;</description>
     </item>
     <item>
       <title>University Rover Challenge-Capstone Project</title>
-      <link>https://www.wojciechmazurek.com/projects/urc/</link>
+      <link>https://wojciechmazurek.github.io/MySite/projects/urc/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://www.wojciechmazurek.com/projects/urc/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/projects/urc/</guid>
       <description>&lt;p&gt;AUG 2020 – DEC 2020 - Worked in groups using programs such as SolidWorks to create 3D printed parts; Conducted research to develop the best ways of testing soil samples&lt;/p&gt;</description>
     </item>
     <item>
       <title>App for CargoShot Inc.</title>
-      <link>https://www.wojciechmazurek.com/projects/app/</link>
+      <link>https://wojciechmazurek.github.io/MySite/projects/app/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://www.wojciechmazurek.com/projects/app/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/projects/app/</guid>
       <description>&lt;p&gt;OCT 2022 – FEB 2023 - This project involved processing visual data using machine learning models to detect specific classes of warehouse pallet objects. A prototype computer vision system app was developed using Roboflow, using AI to enhance object detection capabilities in a warehouse environment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Longitudinal Study of Factors that Affect User Interactions with Social Media and Email Spam </title>
-      <link>https://www.wojciechmazurek.com/projects/thesis/</link>
+      <link>https://wojciechmazurek.github.io/MySite/projects/thesis/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://www.wojciechmazurek.com/projects/thesis/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/projects/thesis/</guid>
       <description>&lt;p&gt;Conducted a comprehensive study involving 221 participants to analyze factors influencing user interactions with spam; Designed and administered an online survey to collect demographic information, education background, spam training, and interaction experiences; Performed longitudinal analysis and logistic regression to identify key factors reducing the likelihood of spam victimization; Found that individuals with higher education levels and a STEM background were significantly less likely to interact with or fall victim to spam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sample blog content 1</title>
-      <link>https://www.wojciechmazurek.com/blog/sample/</link>
+      <link>https://wojciechmazurek.github.io/MySite/blog/sample/</link>
       <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>https://www.wojciechmazurek.com/blog/sample/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/blog/sample/</guid>
       <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computer Vision Intern</title>
-      <link>https://www.wojciechmazurek.com/experience/job-4/</link>
+      <link>https://wojciechmazurek.github.io/MySite/experience/job-4/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>https://www.wojciechmazurek.com/experience/job-4/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/experience/job-4/</guid>
       <description>&lt;h3 id=&#34;computer-vision-intern&#34;&gt;Computer Vision Intern&lt;/h3&gt;&#xA;&lt;p&gt;Processed visual information with machine learning, detecting warehouse pallet objects of a specific class by using artificial intelligence models; Created a prototype computer vision system app using Xcode&lt;/p&gt;</description>
     </item>
     <item>
       <title>Graduate Teaching Assistant</title>
-      <link>https://www.wojciechmazurek.com/experience/job-3/</link>
+      <link>https://wojciechmazurek.github.io/MySite/experience/job-3/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>https://www.wojciechmazurek.com/experience/job-3/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/experience/job-3/</guid>
       <description>&lt;h3 id=&#34;graduate-teaching-assistant&#34;&gt;Graduate Teaching Assistant&lt;/h3&gt;&#xA;&lt;p&gt;Taught CS 111 lab sections and CS 230 (a web development lab); Created lab activities that coincided with weekly lessons; Changed lab material to fit instructors needs; Conducted one-on-one meetings with students; Graded and used automation to detect cheating in multiple larger scale projects given by the instructor&lt;/p&gt;</description>
     </item>
     <item>
       <title>ITS Student Worker</title>
-      <link>https://www.wojciechmazurek.com/experience/job-1/</link>
+      <link>https://wojciechmazurek.github.io/MySite/experience/job-1/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>https://www.wojciechmazurek.com/experience/job-1/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/experience/job-1/</guid>
       <description>&lt;h3 id=&#34;its-student-worker&#34;&gt;ITS Student Worker&lt;/h3&gt;&#xA;&lt;p&gt;Assisted students and faculty with technical issues over the phone or through email using the Team Dynamix Ticketing System; Researched and comprehended multiple WVU systems; Researched new information daily through the WVU knowledge base&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Assistant</title>
-      <link>https://www.wojciechmazurek.com/experience/job-2/</link>
+      <link>https://wojciechmazurek.github.io/MySite/experience/job-2/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>https://www.wojciechmazurek.com/experience/job-2/</guid>
+      <guid>https://wojciechmazurek.github.io/MySite/experience/job-2/</guid>
       <description>&lt;h3 id=&#34;research-assistant&#34;&gt;Research Assistant&lt;/h3&gt;&#xA;&lt;p&gt;Worked with a team on a research project starting at the testing phase and concluding at the end of the project life cycle; Wrote a program that can be used by anyone; Built a part of the apparatus that would hold and transport live specimens&lt;/p&gt;</description>
     </item>
   </channel>
