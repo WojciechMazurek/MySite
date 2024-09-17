@@ -1,6 +1,7 @@
 ---
 date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
 title: 'A Longitudinal Study of Factors that Affect User Interactions with Social Media and Email Spam '
+weight: 0
 draft: false # set to "true" if you want to hide the content 
 
 link: "https://researchrepository.wvu.edu/etd/12069/" # optional URL to link the logo to

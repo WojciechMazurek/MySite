@@ -1,6 +1,7 @@
 ---
 date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'University Rover Challenge-Capstone Project '
+title: 'University Rover Challenge-Capstone Project'
+weight: 2
 draft: false # set to "true" if you want to hide the content 
 
 link: "https://urc.orgs.wvu.edu/" # optional URL to link the logo to

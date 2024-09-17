@@ -9,13 +9,6 @@
     <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Longitudinal Study of Factors that Affect User Interactions with Social Media and Email Spam </title>
-      <link>http://localhost:1313/projects/thesis/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/projects/thesis/</guid>
-      <description>&lt;p&gt;Conducted a comprehensive study involving 221 participants to analyze factors influencing user interactions with spam; Designed and administered an online survey to collect demographic information, education background, spam training, and interaction experiences; Performed longitudinal analysis and logistic regression to identify key factors reducing the likelihood of spam victimization; Found that individuals with higher education levels and a STEM background were significantly less likely to interact with or fall victim to spam.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>National Cyber League </title>
       <link>http://localhost:1313/projects/ncl/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
@@ -23,11 +16,25 @@
       <description>&lt;p&gt;Spring 2022 -&#xA;Participated in the NCL competition which included practice scenarios that focused on the following: Open-source intelligence, Cryptography, Password cracking, Log analysis, Network Traffic Analysis, Data forensics, Scanning and reconnaissance, Web app exploitation, and Enumeration and exploitation; Scored top 10% in the nation, top scorer in my classes&lt;/p&gt;</description>
     </item>
     <item>
-      <title>University Rover Challenge-Capstone Project </title>
+      <title>University Rover Challenge-Capstone Project</title>
       <link>http://localhost:1313/projects/urc/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
       <guid>http://localhost:1313/projects/urc/</guid>
       <description>&lt;p&gt;AUG 2020 – DEC 2020 - Worked in groups using programs such as SolidWorks to create 3D printed parts; Conducted research to develop the best ways of testing soil samples&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>App for CargoShot Inc.</title>
+      <link>http://localhost:1313/projects/app/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/app/</guid>
+      <description>&lt;p&gt;OCT 2022 – FEB 2023 - This project involved processing visual data using machine learning models to detect specific classes of warehouse pallet objects. A prototype computer vision system app was developed using Roboflow, using AI to enhance object detection capabilities in a warehouse environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Longitudinal Study of Factors that Affect User Interactions with Social Media and Email Spam </title>
+      <link>http://localhost:1313/projects/thesis/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/thesis/</guid>
+      <description>&lt;p&gt;Conducted a comprehensive study involving 221 participants to analyze factors influencing user interactions with spam; Designed and administered an online survey to collect demographic information, education background, spam training, and interaction experiences; Performed longitudinal analysis and logistic regression to identify key factors reducing the likelihood of spam victimization; Found that individuals with higher education levels and a STEM background were significantly less likely to interact with or fall victim to spam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sample blog content 1</title>

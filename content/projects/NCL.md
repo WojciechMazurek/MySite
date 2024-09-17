@@ -1,6 +1,7 @@
 ---
 date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
 title: 'National Cyber League '
+weight: 1
 draft: false # set to "true" if you want to hide the content 
 
 link: "https://nationalcyberleague.org/" # optional URL to link the logo to
