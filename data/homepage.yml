@@ -6,7 +6,7 @@ showcase:
   description: >
     I'm Wojciech Mazurek, a computer science professional specializing in cybersecurity and machine learning. 
     I am currently searching for work in the tech industry and reside in West Virginia.</br>
-    With a <a target='_blank' href='#about'> strong academic foundation </a>
+    With a strong academic foundation
     and <a target='_blank' href='/experience'> hands-on experience</a> in software engineering, cybersecurity, and data analysis, 
     I created this site to showcase my projects, professional journey, and interests.
 
@@ -21,7 +21,7 @@ showcase:
      btnText: "LinkedIn"
      URL: "https://www.linkedin.com/in/wojciech-mazurek-m-s-c-s-b06389148/"
    - icon: "icon-profile-fill"
-     btnText: "Download My Resume"
+     btnText: "Resume"
      URL: "ResumeMazurek24.pdf"
    - icon: "icon-mail-fill"
      btnText: "Contact Me"
