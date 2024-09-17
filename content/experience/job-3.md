@@ -6,7 +6,7 @@ jobTitle: "Graduate Teaching Assistant"
 company: "West Virginia University"
 location: "Morgantown, WV"
 duration: "AUG 2021 - MAY 2023"
-
+weight: 1
 ---
 ### Graduate Teaching Assistant
 

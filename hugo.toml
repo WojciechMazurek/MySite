@@ -26,8 +26,8 @@ theme = "adritian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "About"
-  URL = "#about"
+  name = "Resume"
+  URL = "ResumeMazurek24.pdf"
   weight = 2
 
   # [[menu.header]]
@@ -58,8 +58,8 @@ theme = "adritian-free-hugo-theme"
 #footer
 
   [[menu.footer]]
-  name = "About"
-  URL = "#about"
+  name = "Resume"
+  URL = "ResumeMazurek24.pdf"
   weight = 2
 
   # [[menu.footer]]

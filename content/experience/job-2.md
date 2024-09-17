@@ -6,7 +6,7 @@ jobTitle: "Research Assistant"
 company: "Centers For Disease Control and Prevention"
 location: "Morgantown, WV"
 duration: "JUN 2019 - AUG 2019"
-
+weight: 2
 ---
 ### Research Assistant
 

@@ -6,6 +6,7 @@ jobTitle: "ITS Student Worker"
 company: "West Virginia University"
 location: "Morgantown, WV"
 duration: "JUN 2020 - AUG 2021"
+weight: 3
 
 ---
 ### ITS Student Worker
