@@ -11,8 +11,9 @@ params:
         btnText: "Thesis Page"
         URL: "https://researchrepository.wvu.edu/etd/12069/"
     image:  
-        x: "images/works/radity-finance.jpg"
-        _2x: "images/works/radity-finance@2x.jpg"
+        x: "images/works/thesis.jpg"
+        _2x: "images/works/thesis@2x.jpg"
+        
     
 
 ## The content is used for the description of the project

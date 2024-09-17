@@ -29,12 +29,5 @@
       <guid>http://localhost:1313/projects/robo-advisor/</guid>
       <description>&lt;p&gt;Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Swiss Fintech Website</title>
-      <link>http://localhost:1313/projects/swiss-fintech/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/projects/swiss-fintech/</guid>
-      <description>&lt;p&gt;hello!&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

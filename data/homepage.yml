@@ -14,7 +14,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://www.adrianmoreno.info/"
+    URL: "#contact"
 
   socialLinks:
     - icon: "linkedin"
@@ -23,8 +23,9 @@ showcase:
     - icon: "github"
       URL: "https://github.com/WojciechMazurek"
 
-    - icon: "orcid"
+    - icon: "custom"
       URL: "https://orcid.org/0009-0003-4255-3236"
+      image: "images/Icons/orcID.svg"
 
     # - icon: "dribbble"
     #   URL: "#"
