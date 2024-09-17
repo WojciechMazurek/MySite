@@ -9717,7 +9717,8 @@ input[type="email"]::placeholder {
     align-items: flex-start;
     min-height: 131px;
 }
-.education::before {
+/* Commented out to no longer show a grey skewed rectangle on each education location, uncomment to add back */
+/* .education::before {
     content: "";
     position: absolute;
     left: 90px;
@@ -9728,7 +9729,7 @@ input[type="email"]::placeholder {
     background-color: #edf1f4;
     -webkit-transform: skew(-13deg);
     transform: skew(-13deg);
-}
+} */
 .education__date {
     position: relative;
     font-size: 14px;
@@ -10523,8 +10524,8 @@ textarea:focus {
     }
 }
 .rad-showcase .platform-links [class^="icon-"] {
-    margin-right: 5px;
-    font-size: 17px;
+    margin-right: 10px;
+    font-size: 24px;
     color: #000;
 }
 .rad-showcase .platform-links [class^="icon-"]:hover::before {
@@ -10541,7 +10542,7 @@ textarea:focus {
 }
 @media (min-width: 992px) {
     .rad-showcase .platform-links [class^="icon-"] {
-        font-size: 19px;
+        font-size: 40px;
         margin-right: 10px;
     }
 }
@@ -10562,3 +10563,13 @@ textarea:focus {
         margin-top: -125px;
     }
 }
+.platform-links a img {
+    margin-bottom: 16px;
+}
+.platform-links a img {
+    transition: transform .15s ease; /* Smooth transition effect */
+  }
+  
+  .platform-links a img:hover {
+    transform: scale(1.2); /* Scale the icon by 1.2 times on hover */
+  }

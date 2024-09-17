@@ -20,4 +20,6 @@ params:
 ## The content is used for the description of the project
 ---
 
+AUG 2021 - AUG 2023 
+
 Conducted a comprehensive study involving 221 participants to analyze factors influencing user interactions with spam; Designed and administered an online survey to collect demographic information, education background, spam training, and interaction experiences; Performed longitudinal analysis and logistic regression to identify key factors reducing the likelihood of spam victimization; Found that individuals with higher education levels and a STEM background were significantly less likely to interact with or fall victim to spam.

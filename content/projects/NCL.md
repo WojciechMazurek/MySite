@@ -18,5 +18,6 @@ params:
 
 ## The content is used for the description of the project
 ---
-Spring 2022 - 
-Participated in the NCL competition which included practice scenarios that focused on the following: Open-source intelligence, Cryptography, Password cracking, Log analysis, Network Traffic Analysis, Data forensics, Scanning and reconnaissance, Web app exploitation, and Enumeration and exploitation; Scored top 10% in the nation, top scorer in my classes
+Spring 2022
+
+Participated in the NCL competition which included practice scenarios that focused on the following: Open-source intelligence, Cryptography, Password cracking, Log analysis, Network Traffic Analysis, Data forensics, Scanning and reconnaissance, Web app exploitation, and Enumeration and exploitation; Scored top 10% in the nation, top scorer in my classes.

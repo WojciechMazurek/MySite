@@ -18,4 +18,6 @@ params:
 
 ## The content is used for the description of the project
 ---
-AUG 2020 – DEC 2020 - Worked in groups using programs such as SolidWorks to create 3D printed parts; Conducted research to develop the best ways of testing soil samples
+AUG 2020 - DEC 2020 
+
+Worked in groups using programs such as SolidWorks to create 3D printed parts; Conducted research to develop the best ways of testing soil samples.

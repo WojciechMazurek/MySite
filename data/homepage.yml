@@ -99,20 +99,19 @@ experience:
   enable: true
   title: "Experience"
   description: >
-   I’ve had diverse roles including Computer Vision Intern at CargoShot Inc., 
-   where I developed AI-based systems for detecting warehouse objects and created 
-   a computer vision app. As a Graduate Teaching Assistant at WVU, I taught lab sections, 
-   created and adapted lab materials, and used automation for grading and plagiarism detection. 
-   At the CDC, I contributed to a research project by developing software and building specimen 
-   handling apparatuses. I also worked as a WVU ITS Desk Student Worker, resolving technical issues 
-   and researching WVU systems using the Team Dynamix system.
+   I have held diverse roles in the fields of computer science and engineering.
+   Some of my work has included: developing AI-based systems and creating a computer
+   vision app for CargoShot Inc., developing software and building specimen handling
+   apparatuses for the Centers for Disease Control and Prevention (CDC), teaching college
+   labs at WVU and using automation for grading and plagiarism detection, and resolving
+   technical issues and researching WVU systems using the Team Dynamix system at the WVU ITS Desk.
+  # button:
+  #   icon: "icon-arrow-fill"
+  #   btnText: "Experience"
+  #   URL: "/experience"
   button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/wojciech-mazurek-m-s-c-s-b06389148/"
-  button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
+    btnText: "Resume"
     URL: "ResumeMazurek24.pdf"
 
 

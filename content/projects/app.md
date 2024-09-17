@@ -18,4 +18,6 @@ params:
 
 ## The content is used for the description of the project
 ---
-OCT 2022 – FEB 2023 - This project involved processing visual data using machine learning models to detect specific classes of warehouse pallet objects. A prototype computer vision system app was developed using Roboflow, using AI to enhance object detection capabilities in a warehouse environment.
+OCT 2022 - FEB 2023 
+
+This project involved processing visual data using machine learning models to detect specific classes of warehouse pallet objects. A prototype computer vision system app was developed using Roboflow, using AI to enhance object detection capabilities in a warehouse environment.

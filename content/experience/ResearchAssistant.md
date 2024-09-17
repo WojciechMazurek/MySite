@@ -10,4 +10,6 @@ weight: 2
 ---
 ### Research Assistant
 
-Worked with a team on a research project starting at the testing phase and concluding at the end of the project life cycle; Wrote a program that can be used by anyone; Built a part of the apparatus that would hold and transport live specimens 
+- Worked with a team on a research project starting at the testing phase and concluding at the end of the project life cycle
+- Wrote a program that can be used by anyone
+-  Built a part of the apparatus that would hold and transport live specimens 
