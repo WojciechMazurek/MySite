@@ -10563,6 +10563,11 @@ textarea:focus {
         margin-top: -125px;
     }
 }
+.rad-showcase a.btn {
+    margin-right: 10px; /* Adds space between buttons */
+    margin-bottom: 10px; /* Adjusts spacing in case they stack vertically */
+  }
+  
 .platform-links a img {
     margin-bottom: 16px;
 }

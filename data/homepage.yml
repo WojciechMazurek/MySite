@@ -14,7 +14,7 @@ showcase:
     x: "images/who-am-i/Profile.png"
     _2x: "images/who-am-i/Profile@2x.png"
   imageMobile:
-    x: "images/showcase/showcase-mobile.jpg"
+    x: "images/who-am-i/Profile.png"
 
   buttons:
    - icon: "icon-linkedin-fill"
@@ -26,9 +26,9 @@ showcase:
    - icon: "icon-mail-fill"
      btnText: "Contact Me"
      URL: "#contact"
-  image:
-    x: "images/who-am-i/Profile.png"
-    _2x: "images/who-am-i/Profile@2x.png"
+  # image:
+  #   x: "images/who-am-i/Profile.png"
+  #   _2x: "images/who-am-i/Profile@2x.png"
 
   socialLinks:
     - icon: "linkedin"
