@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/experience/cvi/</guid>
       <description>&lt;h3 id=&#34;computer-vision-intern&#34;&gt;Computer Vision Intern&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Processed visual information with machine learning, detecting warehouse pallet objects of a specific class by using artificial intelligence models&lt;/li&gt;&#xA;&lt;li&gt;Created a prototype computer vision system app using Xcode&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
+    <item>
+      <title>General Engineer</title>
+      <link>http://localhost:1313/experience/netl/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/netl/</guid>
+      <description>&lt;h3 id=&#34;general-engineer&#34;&gt;General Engineer&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Oversee federal research projects focused on energy delivery and security&lt;/li&gt;&#xA;&lt;li&gt;Manage financial assistance agreements, ensure technical oversight, and facilitate research and development efforts to address critical energy challenges.&lt;/li&gt;&#xA;&lt;li&gt;Level II Technical Project Officer&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
