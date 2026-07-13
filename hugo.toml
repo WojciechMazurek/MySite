@@ -84,6 +84,7 @@ theme = "adritian-free-hugo-theme"
 
 
 [params]
+  description = "Wojciech Mazurek — engineer and researcher in computer vision, robotics, and AI. Portfolio of projects including the University Rover Challenge and AI applications."
 
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
